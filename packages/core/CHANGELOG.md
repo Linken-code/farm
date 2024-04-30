@@ -1,5 +1,11 @@
 # @farmfe/core
 
+## 1.1.3
+
+### Patch Changes
+
+- 61294219: minify module filter use absolute path
+
 ## 1.1.2
 
 ### Patch Changes
