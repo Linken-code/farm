@@ -1,5 +1,11 @@
 # @farmfe/core
 
+## 1.3.24
+
+### Patch Changes
+
+- 732c046d: Ignore non-utf8 error when getting file contents
+
 ## 1.3.23
 
 ### Patch Changes
